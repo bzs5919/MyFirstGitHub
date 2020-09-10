@@ -7,6 +7,7 @@ def bye_world():
 	time.sleep(2)
 	print("bye world")
 	print("modified in otherbranch")
+	print("wanna make conflict with mater - other branch")
 
 if __name__ == "__main__":
 	hello_world()
