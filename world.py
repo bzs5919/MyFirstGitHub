@@ -6,6 +6,7 @@ def hello_world():
 def bye_world():
 	time.sleep(2)
 	print("bye world")
+	print("modified in otherbranch")
 
 if __name__ == "__main__":
 	hello_world()
