@@ -8,6 +8,7 @@ def bye_world():
 	print("bye world")
 	print("modified in otherbranch")
 	print("i will make conflict with otherbranch")
+	print("i like master more")
 
 if __name__ == "__main__":
 	hello_world()
