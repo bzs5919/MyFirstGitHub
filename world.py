@@ -13,8 +13,4 @@ def bye_world():
 if __name__ == "__main__":
 	hello_world()
 	bye_world()
-	print("yeah is mater branch!")
-	print("one more print on master")
-	print("print something on anotherbranch")
-	print("qw")
 	print("1")
