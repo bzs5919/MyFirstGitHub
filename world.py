@@ -15,3 +15,4 @@ if __name__ == "__main__":
 	bye_world()
 	print("1")
 	print("2")
+	print("asdf")
