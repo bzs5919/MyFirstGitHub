@@ -17,5 +17,3 @@ if __name__ == "__main__":
 	print("one more print on master")
 	print("print something on anotherbranch")
 	print("qw")
-	print("1")
-	print("2")
